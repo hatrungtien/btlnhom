@@ -1,0 +1,33 @@
+.grid_product{
+    width: 1300px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+.product__header{
+    display: flex;
+}
+.product__img{
+    width: 40%;
+    padding: 15px;
+}
+.product__img-father{
+    width: 100%;
+}
+.product__img-list{
+
+}
+.product__img-children{
+    width: 20%;
+}
+.product__body{
+    padding: 20px 35px 0 20px;
+}
+.product__body-price{
+    color: var(--header-color-1);
+}
+.button-buy{
+    width: 200px;
+    height: 40px;
+    color: aliceblue;
+    background-color: var(--header-color-1);
+}
